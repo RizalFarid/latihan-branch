@@ -1,3 +1,2 @@
 # Ini adalah repository untuk latihan membuat brach baru di Github.<br>
-
-github itu asyik
+Belajar Github di Dicoding itu seru!
