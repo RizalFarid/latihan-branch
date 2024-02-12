@@ -1,1 +1,1 @@
-# latihan-branch
+Ini adalah repository untuk latihan membuat brach baru di Github.
